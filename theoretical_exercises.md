@@ -4,6 +4,9 @@
 
 sourced from several sources (listed by problem)
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+
 best viewed as pdf, but markdown works too if you can decipher the latex as is
 
 # The Algorithm Deisgn Manual 
